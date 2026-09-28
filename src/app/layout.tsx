@@ -15,8 +15,21 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: 'NEXUS — Personal Future Simulator | See where your habits are taking you',
   description: 'AI-powered personal future trajectory simulator. Real deterministic mathematics projecting your arrival date based on daily habits, consistency, and focus.',
-  keywords: ['future simulator', 'habit trajectory', 'personal development', 'AI life coach', 'productivity analytics'],
-  authors: [{ name: 'Alex Vance / NEXUS Team' }],
+  keywords: [
+    'productivity',
+    'typescript',
+    'simulator',
+    'nextjs',
+    'decision-making',
+    'mathematical-modeling',
+    'tailwind-css',
+    'future simulator',
+    'habit trajectory',
+    'personal development',
+    'AI life coach',
+    'productivity analytics',
+  ],
+  authors: [{ name: 'baadaldev' }],
 };
 
 export const viewport: Viewport = {

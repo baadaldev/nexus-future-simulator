@@ -1,6 +1,16 @@
 {
   "name": "nexus",
   "version": "0.1.0",
+  "description": "Mathematical Personal Future Simulator & Life Trajectory Engine built with Next.js 16, React 19 & Tailwind CSS.",
+  "keywords": [
+    "productivity",
+    "typescript",
+    "simulator",
+    "nextjs",
+    "decision-making",
+    "mathematical-modeling",
+    "tailwind-css"
+  ],
   "private": true,
   "scripts": {
     "dev": "next dev",

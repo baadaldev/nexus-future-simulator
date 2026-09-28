@@ -13,6 +13,16 @@
 [![Author](https://img.shields.io/badge/Author-baadaldev-purple?style=for-the-badge&logo=github)](https://github.com/baadaldev)
 
 <p align="center">
+  <a href="https://github.com/topics/productivity"><img src="https://img.shields.io/badge/topic-productivity-0284c7?style=flat-square" alt="productivity" /></a>
+  <a href="https://github.com/topics/typescript"><img src="https://img.shields.io/badge/topic-typescript-3178c6?style=flat-square" alt="typescript" /></a>
+  <a href="https://github.com/topics/simulator"><img src="https://img.shields.io/badge/topic-simulator-6366f1?style=flat-square" alt="simulator" /></a>
+  <a href="https://github.com/topics/nextjs"><img src="https://img.shields.io/badge/topic-nextjs-000000?style=flat-square" alt="nextjs" /></a>
+  <a href="https://github.com/topics/decision-making"><img src="https://img.shields.io/badge/topic-decision--making-8b5cf6?style=flat-square" alt="decision-making" /></a>
+  <a href="https://github.com/topics/mathematical-modeling"><img src="https://img.shields.io/badge/topic-mathematical--modeling-ec4899?style=flat-square" alt="mathematical-modeling" /></a>
+  <a href="https://github.com/topics/tailwind-css"><img src="https://img.shields.io/badge/topic-tailwind--css-06b6d4?style=flat-square" alt="tailwind-css" /></a>
+</p>
+
+<p align="center">
   <b>NEXUS is an AI-powered personal growth and future trajectory simulator.</b><br>
   <i>Not a passive to-do list. Not a basic habit tracker. A true predictive operating system for your ambition.</i>
 </p>
