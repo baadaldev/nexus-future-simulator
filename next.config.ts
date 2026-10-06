@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
-const isGithubActions = process.env.GITHUB_ACTIONS || false;
-const repo = "-NEXUS-Personal-Future-Simulator";
+const isGithubActions = Boolean(process.env.GITHUB_ACTIONS);
+const repo = process.env.GITHUB_REPOSITORY ? process.env.GITHUB_REPOSITORY.split("/")[1] : "nexus-future-simulator";
 
 const nextConfig: NextConfig = {
   output: isGithubActions ? "export" : undefined,

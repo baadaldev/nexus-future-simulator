@@ -15,8 +15,8 @@ We are committed to providing a welcoming, inclusive, and harassment-free enviro
 ### 1. Fork & Clone
 Fork the repository on GitHub and clone your fork locally:
 ```bash
-git clone https://github.com/baadaldev/-NEXUS-Personal-Future-Simulator.git
-cd -NEXUS-Personal-Future-Simulator
+git clone https://github.com/baadaldev/nexus-future-simulator.git
+cd nexus-future-simulator
 ```
 
 ### 2. Branching Strategy
